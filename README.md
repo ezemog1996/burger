@@ -36,7 +36,7 @@ Contribute any way you'd like. Improve any part you feel like needs improvement.
 
 Go to arcane-brushlands-24215.herokuapp.com and order a burger by typing the name into the input field and clicking the "Add Burger" button. Click devour next to your burger on the left side of the screen. This will update the burger as devoured in the database and it will move to the left side of the screen. Refresh the page and everything should be in the same place.
 
-![image](https://user-images.githubusercontent.com/71483178/104638205-dd5cb400-5673-11eb-9826-078c135cc8aa.png)
+![image](https://user-images.githubusercontent.com/71483178/104638374-1137d980-5674-11eb-88df-5c5baf4d30be.png)
 
 ### License
 
